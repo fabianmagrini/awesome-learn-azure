@@ -48,13 +48,20 @@ Service principals
 
 ## Architecture
 
+* <https://docs.microsoft.com/en-us/azure/architecture/>
 * <https://docs.microsoft.com/en-us/azure/architecture/guide/>
 * <https://dotnet.microsoft.com/learn/dotnet/architecture-guides>
 * <https://docs.microsoft.com/en-us/azure/architecture/patterns/>
+* <https://docs.microsoft.com/en-us/azure/architecture/framework/>
 * <https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview>
 * <https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/>
 * <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/>
 * <https://azure.microsoft.com/en-au/solutions/architecture/>
+* <https://docs.microsoft.com/en-us/azure/architecture/microservices/>
+
+## Security
+
+* <https://docs.microsoft.com/en-us/azure/security/>
 
 ## Azure Container Instances
 
