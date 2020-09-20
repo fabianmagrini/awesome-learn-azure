@@ -147,6 +147,10 @@ Deploy a container using an Azure App Service Plan webapp
 * <https://docs.microsoft.com/en-us/azure/sql-database/scripts/sql-database-create-and-configure-database-cli>
 * <https://docs.microsoft.com/en-us/azure/sql-database/sql-database-design-first-database>
 
+## Virtual Machines
+
+* <https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-azure-devops-blue-green-strategy>
+
 ## Virtual Machine Scale Sets
 
 What
