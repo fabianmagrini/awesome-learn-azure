@@ -187,3 +187,4 @@ Implementation
 * enterprise scale <https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/ready/enterprise-scale/implementation>, hub and spoke example
 * start small and expand <https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/ready/landing-zone/terraform-landing-zone>, example using Terraform to build your landing zones
 * <https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/caf-migrate-landing-zone/>, CAF Migrate landing zone blueprint sample
+* [Cloud Adoption Framework: Introduction landing zones for Terraform](https://youtu.be/4UrIakS-j_Y)
