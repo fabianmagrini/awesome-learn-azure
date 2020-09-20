@@ -164,6 +164,9 @@ Using Terraform
 
 * <https://www.terraform.io/docs/providers/azurerm/r/virtual_machine_scale_set.html>
 * <https://docs.microsoft.com/en-us/azure/developer/terraform/create-vm-scaleset-network-disks-using-packer-hcl>
+* examples:
+  * <https://github.com/kumarvna/terraform-azurerm-vm-scale-sets>
+  * <https://github.com/gmaentz/terraform_azure>
 
 ## Microsoft Cloud Adoption Framework for Azure
 
