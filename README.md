@@ -171,6 +171,7 @@ Using Terraform
 * examples:
   * <https://github.com/kumarvna/terraform-azurerm-vm-scale-sets>
   * <https://github.com/gmaentz/terraform_azure>
+  * <https://github.com/karimarttila/azure/tree/master/simple-server-vm>
 
 ## Microsoft Cloud Adoption Framework for Azure
 
