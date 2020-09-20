@@ -146,3 +146,18 @@ Deploy a container using an Azure App Service Plan webapp
 
 * <https://docs.microsoft.com/en-us/azure/sql-database/scripts/sql-database-create-and-configure-database-cli>
 * <https://docs.microsoft.com/en-us/azure/sql-database/sql-database-design-first-database>
+
+## Microsoft Cloud Adoption Framework for Azure
+
+What
+
+* <https://azure.microsoft.com/en-au/cloud-adoption-framework/>
+* overview from the learning path <https://docs.microsoft.com/en-us/learn/modules/microsoft-cloud-adoption-framework-for-azure/>
+* operating model <https://azure.microsoft.com/en-au/resources/building-a-digital-operating-model-with-microsoft-cloud-adoption-framework/>
+* the docs <https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/>
+
+Implementation
+
+* enterprise scale <https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/ready/enterprise-scale/implementation>, hub and spoke example
+* start small and expand <https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/ready/landing-zone/terraform-landing-zone>, example using Terraform to build your landing zones
+* <https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/caf-migrate-landing-zone/>, CAF Migrate landing zone blueprint sample
