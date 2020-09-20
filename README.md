@@ -147,6 +147,24 @@ Deploy a container using an Azure App Service Plan webapp
 * <https://docs.microsoft.com/en-us/azure/sql-database/scripts/sql-database-create-and-configure-database-cli>
 * <https://docs.microsoft.com/en-us/azure/sql-database/sql-database-design-first-database>
 
+## Virtual Machine Scale Sets
+
+What
+
+* <https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview>
+* <https://docs.microsoft.com/en-us/azure/load-balancer/configure-vm-scale-set-cli>
+* <https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-networking>
+
+Blue Green Deployment
+
+* <https://msftstack.wordpress.com/2017/02/24/vip-swap-blue-green-deployment-in-azure-resource-manager/>
+* <https://github.com/maniSbindra/vmss-packer-blue-green/>
+
+Using Terraform
+
+* <https://www.terraform.io/docs/providers/azurerm/r/virtual_machine_scale_set.html>
+* <https://docs.microsoft.com/en-us/azure/developer/terraform/create-vm-scaleset-network-disks-using-packer-hcl>
+
 ## Microsoft Cloud Adoption Framework for Azure
 
 What
