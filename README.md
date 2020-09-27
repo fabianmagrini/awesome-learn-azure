@@ -59,6 +59,13 @@ Service principals
 * <https://azure.microsoft.com/en-au/solutions/architecture/>
 * <https://docs.microsoft.com/en-us/azure/architecture/microservices/>
 
+## Cloud Native Sample Applications
+
+* <https://github.com/dotnet-architecture/eShopOnContainers> Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
+* <https://github.com/Microsoft/TailwindTraders> A fictitious retail company showcasing the future of intelligent application experiences. These reference apps are all are powered by the Azure cloud, built with best-in-class tools, and made smarter through data and AI.
+* <https://github.com/mspnp/microservices-reference-implementation> A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
+* <https://github.com/vietnam-devs/coolstore-microservices> A Kubernetes-based microservices application on service mesh
+
 ## Security
 
 * <https://docs.microsoft.com/en-us/azure/security/>
@@ -131,6 +138,13 @@ Advanced
 * <https://github.com/Azure/aad-pod-identity>
 * <https://github.com/Azure/kubernetes-keyvault-flexvol>
 * <https://docs.microsoft.com/en-us/azure/aks/use-network-policies>
+* <https://github.com/Azure/application-gateway-kubernetes-ingress>
+
+Production Ready
+
+* <https://github.com/microsoft/bedrock> Automation for Production Kubernetes Clusters with a GitOps Workflow
+* <https://github.com/Azure/sg-aks-workshop> Security + Governance Workshop
+* <https://github.com/chrisvugrinec/aks-sec-demo> cookbook for an enterprise ready AKS rollout
 
 ## App Service Plan
 
@@ -188,3 +202,7 @@ Implementation
 * start small and expand <https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/ready/landing-zone/terraform-landing-zone>, example using Terraform to build your landing zones
 * <https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/caf-migrate-landing-zone/>, CAF Migrate landing zone blueprint sample
 * [Cloud Adoption Framework: Introduction landing zones for Terraform](https://youtu.be/4UrIakS-j_Y)
+
+## Terraform
+
+* <https://github.com/jcorioland/terraform-azure-reference> This repository helps you to implement Infrastructure as Code best practices using Terraform and Microsoft Azure.
