@@ -130,6 +130,7 @@ Tutorial
 * <https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app>
 * <https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-cluster>
 * <https://docs.microsoft.com/en-us/dotnet/architecture/containerized-lifecycle/design-develop-containerized-apps/build-aspnet-core-applications-linux-containers-aks-kubernetes>
+* <https://docs.microsoft.com/en-us/learn/modules/aks-workshop/>
 
 Advanced
 
@@ -142,6 +143,7 @@ Advanced
 
 Production Ready
 
+* <https://docs.microsoft.com/en-au/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks>
 * <https://github.com/microsoft/bedrock> Automation for Production Kubernetes Clusters with a GitOps Workflow
 * <https://github.com/Azure/sg-aks-workshop> Security + Governance Workshop
 * <https://github.com/chrisvugrinec/aks-sec-demo> cookbook for an enterprise ready AKS rollout
@@ -202,6 +204,10 @@ Implementation
 * start small and expand <https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/ready/landing-zone/terraform-landing-zone>, example using Terraform to build your landing zones
 * <https://docs.microsoft.com/en-us/azure/governance/blueprints/samples/caf-migrate-landing-zone/>, CAF Migrate landing zone blueprint sample
 * [Cloud Adoption Framework: Introduction landing zones for Terraform](https://youtu.be/4UrIakS-j_Y)
+
+Kubernetes in the Cloud Adoption Framework
+
+* <https://docs.microsoft.com/en-au/azure/cloud-adoption-framework/innovate/kubernetes/>
 
 ## Terraform
 
