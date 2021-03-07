@@ -218,4 +218,5 @@ Kubernetes in the Cloud Adoption Framework
 Bicep is a declarative language from Microsoft for describing and deploying Azure resources. Bicep is a transparent abstraction over ARM and ARM templates.
 
 * [Bicep tutorial](https://github.com/Azure/bicep/blob/main/docs/tutorial/01-simple-template.md)
+* [Learn everything about the next generation of ARM Templates](https://youtu.be/sc1kJfcRQgY)
 * Bicep [examples](https://github.com/Azure/bicep/tree/main/docs/examples) of the [Azure QuickStart templates](https://github.com/Azure/azure-quickstart-templates)
