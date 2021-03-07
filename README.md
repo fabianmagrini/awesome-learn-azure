@@ -212,3 +212,10 @@ Kubernetes in the Cloud Adoption Framework
 ## Terraform
 
 * <https://github.com/jcorioland/terraform-azure-reference> This repository helps you to implement Infrastructure as Code best practices using Terraform and Microsoft Azure.
+
+## Bicep
+
+Bicep is a declarative language from Microsoft for describing and deploying Azure resources. Bicep is a transparent abstraction over ARM and ARM templates.
+
+* [Bicep tutorial](https://github.com/Azure/bicep/blob/main/docs/tutorial/01-simple-template.md)
+* Bicep [examples](https://github.com/Azure/bicep/tree/main/docs/examples) of the [Azure QuickStart templates](https://github.com/Azure/azure-quickstart-templates)
