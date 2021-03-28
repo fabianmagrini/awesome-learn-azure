@@ -45,6 +45,7 @@ Microsoft provides many free learning paths. There are several aligned with cert
 Service principals
 
 * <https://docs.microsoft.com/bs-latn-ba/cli/azure/create-an-azure-service-principal-azure-cli>
+* <https://docs.microsoft.com/en-us/azure/active-directory/develop/app-objects-and-service-principals>
 
 ## Architecture
 
@@ -221,3 +222,8 @@ Bicep is a declarative language from Microsoft for describing and deploying Azur
 * [Learn everything about the next generation of ARM Templates](https://youtu.be/sc1kJfcRQgY)
 * Bicep [examples](https://github.com/Azure/bicep/tree/main/docs/examples) of the [Azure QuickStart templates](https://github.com/Azure/azure-quickstart-templates)
 * [Beginner Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-tutorial-create-first-bicep?tabs=azure-cli)
+
+## GitHub Actions
+
+* <https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure>
+* <https://docs.microsoft.com/en-us/azure/container-instances/container-instances-github-action>
