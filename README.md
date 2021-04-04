@@ -29,6 +29,7 @@ Microsoft provides many free learning paths. There are several aligned with cert
 * <https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/>
 * <https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/>
 * <https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/>
+* <https://docs.microsoft.com/en-us/learn/paths/develop-deploy-applications-kubernetes/>
 
 ## Hands on labs
 
@@ -132,6 +133,7 @@ Tutorial
 * <https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-cluster>
 * <https://docs.microsoft.com/en-us/dotnet/architecture/containerized-lifecycle/design-develop-containerized-apps/build-aspnet-core-applications-linux-containers-aks-kubernetes>
 * <https://docs.microsoft.com/en-us/learn/modules/aks-workshop/>
+* <https://docs.microsoft.com/en-us/learn/paths/develop-deploy-applications-kubernetes/>
 
 Advanced
 
@@ -141,6 +143,8 @@ Advanced
 * <https://github.com/Azure/kubernetes-keyvault-flexvol>
 * <https://docs.microsoft.com/en-us/azure/aks/use-network-policies>
 * <https://github.com/Azure/application-gateway-kubernetes-ingress>
+* <https://docs.microsoft.com/en-gb/azure/aks/cluster-container-registry-integration>
+* <https://docs.microsoft.com/en-us/azure/key-vault/general/key-vault-integrate-kubernetes>
 
 Production Ready
 
@@ -227,3 +231,5 @@ Bicep is a declarative language from Microsoft for describing and deploying Azur
 
 * <https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure>
 * <https://docs.microsoft.com/en-us/azure/container-instances/container-instances-github-action>
+* <https://docs.microsoft.com/en-us/azure/aks/kubernetes-action>
+* <https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/>
