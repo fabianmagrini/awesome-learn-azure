@@ -229,7 +229,7 @@ Bicep is a declarative language from Microsoft for describing and deploying Azur
 
 ## GitHub Actions
 
-* <https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure>
-* <https://docs.microsoft.com/en-us/azure/container-instances/container-instances-github-action>
-* <https://docs.microsoft.com/en-us/azure/aks/kubernetes-action>
-* <https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/>
+* [Use GitHub Actions to connect to Azure](https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure)
+* [Configure a GitHub action to create a container instance](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-github-action)
+* [GitHub Actions for deploying to AKS](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)
+* Learning module [AKS deployment pipeline and GitHub Actions](https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/) using this [sample](https://github.com/MicrosoftDocs/mslearn-aks-deployment-pipeline-github-actions)
