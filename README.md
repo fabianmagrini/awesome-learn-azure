@@ -30,6 +30,7 @@ Microsoft provides many free learning paths. There are several aligned with cert
 * <https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/>
 * <https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/>
 * <https://docs.microsoft.com/en-us/learn/paths/develop-deploy-applications-kubernetes/>
+* <https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/>
 
 ## Hands on labs
 
@@ -60,6 +61,12 @@ Service principals
 * <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/>
 * <https://azure.microsoft.com/en-au/solutions/architecture/>
 * <https://docs.microsoft.com/en-us/azure/architecture/microservices/>
+
+### Well-Architected
+
+* [Blog series on the Well-Architected Framework](https://www.microsoft.com/en-us/us-partner-blog/?topic=&tg=382&archive=)
+* [Well-Architected video series](https://www.microsoft.com/azure/partners/well-architected#waf-videos)
+* [Learning path on the Well-Architected Framework](https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/)
 
 ## Cloud Native Sample Applications
 
