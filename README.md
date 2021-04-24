@@ -55,8 +55,6 @@ Service principals
 * <https://docs.microsoft.com/en-us/azure/architecture/guide/>
 * <https://dotnet.microsoft.com/learn/dotnet/architecture-guides>
 * <https://docs.microsoft.com/en-us/azure/architecture/patterns/>
-* <https://docs.microsoft.com/en-us/azure/architecture/framework/>
-* <https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview>
 * <https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/>
 * <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/>
 * <https://azure.microsoft.com/en-au/solutions/architecture/>
@@ -64,7 +62,9 @@ Service principals
 
 ### Well-Architected
 
-* [Blog series on the Well-Architected Framework](https://www.microsoft.com/en-us/us-partner-blog/?topic=&tg=382&archive=)
+* [Microsoft Azure Well-Architected Framework](https://docs.microsoft.com/en-us/azure/architecture/framework/)
+* [Principles of the reliability pillar](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/overview)
+* [Blog series on the Well-Architected Framework](https://www.microsoft.com/en-us/us-partner-blog/tag/well-architected-framework/)
 * [Well-Architected video series](https://www.microsoft.com/azure/partners/well-architected#waf-videos)
 * [Learning path on the Well-Architected Framework](https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/)
 
