@@ -234,7 +234,7 @@ Bicep is a declarative language from Microsoft for describing and deploying Azur
 * Bicep [examples](https://github.com/Azure/bicep/tree/main/docs/examples) of the [Azure QuickStart templates](https://github.com/Azure/azure-quickstart-templates)
 * [Beginner Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-tutorial-create-first-bicep?tabs=azure-cli)
 * [Deploy Azure resources by using Bicep templates](https://docs.microsoft.com/en-us/learn/bicep/deploy-azure-resources-by-using-bicep-templates/)
-* [Bicep Policy Examples](https://github.com/globalbao/bicep-policy-examples)
+* [Bicep Policy Examples](https://github.com/globalbao/bicep-policy-examples) and [Azure Policy As Code](https://github.com/globalbao/azure-policy-as-code)
 
 ## GitHub Actions
 
