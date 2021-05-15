@@ -251,6 +251,7 @@ Examples
 
 ## GitHub Actions
 
+* [Getting started with GitHub Actions for .Net developers](https://www.stevejgordon.co.uk/getting-started-with-github-actions-for-dotnet-developers)
 * [Use GitHub Actions to connect to Azure](https://docs.microsoft.com/en-us/azure/developer/github/connect-from-azure)
 * [Configure a GitHub action to create a container instance](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-github-action)
 * [GitHub Actions for deploying to AKS](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)
