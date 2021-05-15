@@ -229,11 +229,13 @@ Kubernetes in the Cloud Adoption Framework
 
 Bicep is a declarative language from Microsoft for describing and deploying Azure resources. Bicep is a transparent abstraction over ARM and ARM templates.
 
+* [Introduction to infrastructure as code using Bicep](https://docs.microsoft.com/en-us/learn/modules/introduction-to-infrastructure-as-code-using-bicep/)
 * [Bicep tutorial](https://github.com/Azure/bicep/blob/main/docs/tutorial/01-simple-template.md)
 * [Learn everything about the next generation of ARM Templates](https://youtu.be/sc1kJfcRQgY)
-* Bicep [examples](https://github.com/Azure/bicep/tree/main/docs/examples) of the [Azure QuickStart templates](https://github.com/Azure/azure-quickstart-templates)
 * [Beginner Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-tutorial-create-first-bicep?tabs=azure-cli)
-* [Deploy Azure resources by using Bicep templates](https://docs.microsoft.com/en-us/learn/bicep/deploy-azure-resources-by-using-bicep-templates/)
+* [Deploy Azure resources by using Bicep templates](https://docs.microsoft.com/en-us/learn/modules/deploy-azure-resources-by-using-bicep-templates/)
+* [Deploy child and extension resources by using Bicep](https://docs.microsoft.com/en-us/learn/modules/child-extension-bicep-templates/)
+* Bicep [examples](https://github.com/Azure/bicep/tree/main/docs/examples) of the [Azure QuickStart templates](https://github.com/Azure/azure-quickstart-templates)
 * [Bicep Policy Examples](https://github.com/globalbao/bicep-policy-examples) and [Azure Policy As Code](https://github.com/globalbao/azure-policy-as-code)
 
 ## GitHub Actions
