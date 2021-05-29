@@ -256,3 +256,11 @@ Examples
 * [Configure a GitHub action to create a container instance](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-github-action)
 * [GitHub Actions for deploying to AKS](https://docs.microsoft.com/en-us/azure/aks/kubernetes-action)
 * Learning module [AKS deployment pipeline and GitHub Actions](https://docs.microsoft.com/en-us/learn/modules/aks-deployment-pipeline-github-actions/) using this [sample](https://github.com/MicrosoftDocs/mslearn-aks-deployment-pipeline-github-actions)
+
+## Power Platform
+
+* [Integrate with Power Platform and Dataverse](https://docs.microsoft.com/en-us/learn/paths/integrate-power-platform/)
+* [Microsoft Power Platform Fundamentals](https://docs.microsoft.com/en-us/learn/paths/power-plat-fundamentals/)
+* [Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/en-us/learn/paths/dynamics-365-fundamentals/)
+* [Architect solutions for Dynamics 365 and Power Platform](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/)
+* [Microsoft Certified: Power Platform App Maker Associate](https://docs.microsoft.com/en-us/learn/certifications/power-platform-app-maker/)
