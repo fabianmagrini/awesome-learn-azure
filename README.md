@@ -119,6 +119,10 @@ Service principals
 
 * <https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment>
 
+### Monitor Azure Functions
+
+* <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring>
+
 ## Azure Key Vault
 
 * <https://docs.microsoft.com/en-us/azure/key-vault/key-vault-manage-with-cli2>
