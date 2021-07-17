@@ -185,10 +185,17 @@ Deploy a container using an Azure App Service Plan webapp
 
 * <https://github.com/dotnet/dotnet-docker/tree/master/samples/dotnetapp>
 
-## Azure SQL Single Database
+## Azure SQL
+
+Documentation
+
+* <https://docs.microsoft.com/en-us/azure/azure-sql/>
+
+Azure SQL Database
 
 * <https://docs.microsoft.com/en-us/azure/sql-database/scripts/sql-database-create-and-configure-database-cli>
 * <https://docs.microsoft.com/en-us/azure/sql-database/sql-database-design-first-database>
+* <https://docs.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app?pivots=platform-linux>
 
 ## Virtual Machines
 
