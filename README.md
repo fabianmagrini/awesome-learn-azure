@@ -12,6 +12,7 @@ Microsoft provides many free learning paths. There are several aligned with cert
 
 * <https://docs.microsoft.com/en-us/learn/certifications/azure-administrator>
 * <https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect>
+* <https://docs.microsoft.com/en-us/learn/certifications/azure-developer/>
 
 ### Udemy courses
 
