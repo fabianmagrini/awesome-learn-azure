@@ -76,6 +76,11 @@ Service principals
 
 * <https://docs.microsoft.com/en-us/azure/security/>
 
+## Azure Blob Storage
+
+* <https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-cli>
+* <https://docs.microsoft.com/en-us/cli/azure/storage/account?view=azure-cli-latest#az-storage-account-show>
+
 ## Azure Container Instances
 
 * <https://docs.microsoft.com/en-us/azure/container-instances/container-instances-quickstart>
@@ -83,10 +88,10 @@ Service principals
 * <https://docs.microsoft.com/en-us/azure/container-registry/container-registry-auth-aci>
 * <https://docs.microsoft.com/en-us/azure/container-instances/container-instances-managed-identity>
 
-## Azure Blob Storage
+## Azure Cosmos DB
 
-* <https://docs.microsoft.com/en-us/azure/storage/blobs/storage-quickstart-blobs-cli>
-* <https://docs.microsoft.com/en-us/cli/azure/storage/account?view=azure-cli-latest#az-storage-account-show>
+* <https://docs.microsoft.com/en-us/azure/cosmos-db/>
+* <https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/>
 
 ## Azure Data Factory
 
