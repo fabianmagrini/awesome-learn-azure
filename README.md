@@ -33,10 +33,6 @@ Microsoft provides many free learning paths. There are several aligned with cert
 * <https://docs.microsoft.com/en-us/learn/paths/develop-deploy-applications-kubernetes/>
 * <https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/>
 
-## Hands on labs
-
-* <https://www.microsoft.com/handsonlabs>
-
 ## Tips, tricks, guides
 
 * <https://microsoft.github.io/AzureTipsAndTricks/>
