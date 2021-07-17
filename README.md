@@ -167,6 +167,16 @@ Production Ready
 
 ## App Service Plan
 
+Documentation
+
+* <https://docs.microsoft.com/en-us/azure/app-service/>
+
+ASP.NET Core app for Azure App Service
+
+* <https://docs.microsoft.com/en-us/azure/app-service/quickstart-dotnetcore?tabs=net50&pivots=development-environment-vscode>
+* <https://docs.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app?pivots=platform-linux>
+* <https://docs.microsoft.com/en-us/azure/app-service/configure-language-dotnetcore?pivots=platform-linux>
+
 Deploy a container using an Azure App Service Plan webapp
 
 * <https://docs.microsoft.com/en-us/azure/app-service/containers/tutorial-custom-docker-image>
