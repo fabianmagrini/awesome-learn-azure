@@ -166,6 +166,11 @@ Production Ready
 * <https://github.com/Azure/sg-aks-workshop> Security + Governance Workshop
 * <https://github.com/chrisvugrinec/aks-sec-demo> cookbook for an enterprise ready AKS rollout
 
+## Azure Monitor
+
+* <https://docs.microsoft.com/en-us/azure/azure-monitor/>
+* <https://docs.microsoft.com/en-us/azure/azure-monitor/app/snapshot-debugger>
+
 ## App Service Plan
 
 Documentation
