@@ -117,13 +117,23 @@ Service principals
 
 * <https://medium.com/statuscode/getting-key-vault-secrets-in-azure-functions-37620fd20a0b>
 
-### Continuous Delpoyment
+### Continuous delivery by using GitHub Action
 
-* <https://docs.microsoft.com/en-us/azure/azure-functions/functions-continuous-deployment>
+* <https://docs.microsoft.com/en-us/azure/azure-functions/functions-how-to-github-actions?tabs=dotnet>
 
 ### Monitor Azure Functions
 
 * <https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring>
+
+### How to guide
+
+* <https://docs.microsoft.com/en-us/azure/azure-functions/functions-dotnet-dependency-injection>
+* <https://docs.microsoft.com/en-us/azure/azure-functions/functions-bindings-error-pages?tabs=csharp>
+
+### Security practices
+
+* <https://docs.microsoft.com/en-us/security/benchmark/azure/baselines/functions-security-baseline>
+* <https://docs.microsoft.com/en-us/azure/app-service/web-sites-integrate-with-vnet>
 
 ## Azure Key Vault
 
