@@ -19,6 +19,10 @@ Microsoft provides many free learning paths. There are several aligned with cert
 * [AZ-300 Azure Architecture Technologies Certification Exam](https://www.udemy.com/course/70534-azure/)
 * [AZ-301 Azure Architect Design Exam Prep](https://www.udemy.com/course/az301-azure/)
 
+### Study guides
+
+* [John Savill's AZ-700 Study Playlist](https://www.youtube.com/playlist?list=PLlVtbbG169nGeFODKRZhjqdSxFpSPXVOa)
+
 ## Learning paths
 
 * <https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure/>
@@ -32,6 +36,10 @@ Microsoft provides many free learning paths. There are several aligned with cert
 * <https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/>
 * <https://docs.microsoft.com/en-us/learn/paths/develop-deploy-applications-kubernetes/>
 * <https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/>
+
+## Master Class
+
+* [John Savill's Azure Master Class](https://github.com/johnthebrit/AzureMasterClass)
 
 ## Tips, tricks, guides
 
