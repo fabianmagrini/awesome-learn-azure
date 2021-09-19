@@ -288,7 +288,10 @@ Beginner
 
 Intermediate
 
+* [Build Azure infrastructure in a team environment by using Bicep](https://docs.microsoft.com/en-us/learn/paths/bicep-collaborate/)
 * [Deploy child and extension resources by using Bicep](https://docs.microsoft.com/en-us/learn/modules/child-extension-bicep-templates/)
+* [Bicep deployment what-if operation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-what-if?tabs=azure-powershell%2CCLI)
+* [Use Azure Key Vault to pass secure parameter value during Bicep deployment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/key-vault-parameter?tabs=azure-cli)
 
 Examples
 
