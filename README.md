@@ -103,8 +103,24 @@ Service principals
 
 ## Azure Data Factory
 
+Create using CLI
+
+* <https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-azure-cli>
+
+Create using ARM
+
 * <https://docs.microsoft.com/en-us/azure/data-factory/quickstart-create-data-factory-resource-manager-template>
 * <https://docs.microsoft.com/en-us/azure/azure-resource-manager/resource-group-template-deploy-cli>
+
+Create using Bicep
+
+* <https://docs.microsoft.com/en-us/azure/templates/microsoft.datafactory/factories?tabs=bicep>
+
+### How to guides
+
+* <https://docs.microsoft.com/en-us/azure/data-factory/connector-http?tabs=data-factory>
+* <https://docs.microsoft.com/en-us/azure/data-factory/how-to-fixed-width>
+* <https://docs.microsoft.com/en-us/azure/data-factory/store-credentials-in-key-vault>
 
 ## Azure Event Hub
 
