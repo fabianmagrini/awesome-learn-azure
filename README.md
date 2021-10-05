@@ -121,6 +121,8 @@ Create using Bicep
 * <https://docs.microsoft.com/en-us/azure/data-factory/connector-http?tabs=data-factory>
 * <https://docs.microsoft.com/en-us/azure/data-factory/how-to-fixed-width>
 * <https://docs.microsoft.com/en-us/azure/data-factory/store-credentials-in-key-vault>
+* <https://docs.microsoft.com/en-us/azure/data-factory/data-flow-surrogate-key>
+* <https://docs.microsoft.com/en-us/azure/data-factory/tutorial-data-flow-write-to-lake>
 
 ## Azure Event Hub
 
