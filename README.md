@@ -303,6 +303,7 @@ Beginner
 * [Bicep tutorial](https://github.com/Azure/bicep/blob/main/docs/tutorial/01-simple-template.md)
 * [Beginner Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/bicep-tutorial-create-first-bicep?tabs=azure-cli)
 * [Deploy and manage resources in Azure by using Bicep](https://docs.microsoft.com/en-us/learn/paths/bicep-deploy/)
+* [Best practices for Bicep](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/best-practices)
 
 Intermediate
 
