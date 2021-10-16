@@ -312,6 +312,11 @@ Intermediate
 * [Bicep deployment what-if operation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/deploy-what-if?tabs=azure-powershell%2CCLI)
 * [Use Azure Key Vault to pass secure parameter value during Bicep deployment](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/key-vault-parameter?tabs=azure-cli)
 
+Advanced
+
+* [Add custom settings in the Bicep config file](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/bicep-config)
+* [Published a module to a registry](https://docs.microsoft.com/en-us/azure/azure-resource-manager/bicep/modules#file-in-registry)
+
 Examples
 
 * Bicep [examples](https://github.com/Azure/bicep/tree/main/docs/examples) of the [Azure QuickStart templates](https://github.com/Azure/azure-quickstart-templates)
