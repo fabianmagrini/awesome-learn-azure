@@ -339,3 +339,12 @@ Examples
 * [Microsoft Dynamics 365 Fundamentals](https://docs.microsoft.com/en-us/learn/paths/dynamics-365-fundamentals/)
 * [Architect solutions for Dynamics 365 and Power Platform](https://docs.microsoft.com/en-us/learn/paths/become-solution-architect/)
 * [Microsoft Certified: Power Platform App Maker Associate](https://docs.microsoft.com/en-us/learn/certifications/power-platform-app-maker/)
+
+## Azure Container Apps
+
+* [Introducing Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-azure-container-apps-a-serverless-container-service/ba-p/2867265?ocid=AID3042118)
+* [Deploy your first container app](https://docs.microsoft.com/en-us/azure/container-apps/get-started?ocid=AID3042118&tabs=bash)
+* [Introduction to Azure Container Apps](https://www.thorsten-hans.com/introduction-to-azure-container-apps/)
+* [How to deploy Azure Container Apps with Bicep](https://www.thorsten-hans.com/how-to-deploy-azure-container-apps-with-bicep/)
+* [Taking Azure Container Apps for a spin](https://blog.baeke.info/2021/11/03/taking-azure-container-apps-for-a-spin/)
+* [Implementing continuous blue/green deployments on Azure Container Apps by using GitHub Actions](https://denniszielke.medium.com/implementing-continuous-blue-green-deployments-on-azure-container-apps-by-using-github-actions-b4cd5183adb8)
