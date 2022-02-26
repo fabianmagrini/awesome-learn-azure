@@ -208,6 +208,10 @@ Production Ready
 * <https://docs.microsoft.com/en-us/azure/azure-monitor/>
 * <https://docs.microsoft.com/en-us/azure/azure-monitor/app/snapshot-debugger>
 
+## Azure Policy
+
+* <https://github.com/globalbao/awesome-azure-policy>
+
 ## App Service Plan
 
 Documentation
