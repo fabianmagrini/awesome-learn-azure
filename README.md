@@ -36,6 +36,7 @@ Microsoft provides many free learning paths. There are several aligned with cert
 * <https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/>
 * <https://docs.microsoft.com/en-us/learn/paths/develop-deploy-applications-kubernetes/>
 * <https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/>
+* <https://docs.microsoft.com/en-us/learn/paths/realize-integrated-analytical-solutions-with-azure-synapse-analytics/>
 
 ## Master Class
 
@@ -238,6 +239,15 @@ Azure SQL Database
 * <https://docs.microsoft.com/en-us/azure/sql-database/scripts/sql-database-create-and-configure-database-cli>
 * <https://docs.microsoft.com/en-us/azure/sql-database/sql-database-design-first-database>
 * <https://docs.microsoft.com/en-us/azure/app-service/tutorial-dotnetcore-sqldb-app?pivots=platform-linux>
+
+## Azure Synapse Analytics
+
+* <https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/>
+* <https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics>
+* <https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started>
+* <https://docs.microsoft.com/en-us/learn/paths/realize-integrated-analytical-solutions-with-azure-synapse-analytics/>
+* <https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=cli>
+* <https://github.com/Azure/azure-synapse-analytics-end2end>
 
 ## Virtual Machines
 
