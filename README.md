@@ -164,7 +164,11 @@ Create using Bicep
 
 ## Azure Key Vault
 
+* <https://docs.microsoft.com/en-us/azure/key-vault/general/basic-concepts>
 * <https://docs.microsoft.com/en-us/azure/key-vault/key-vault-manage-with-cli2>
+* <https://docs.microsoft.com/en-us/azure/key-vault/keys/about-keys>
+* <https://docs.microsoft.com/en-us/azure/key-vault/secrets/quick-create-net>
+* <https://www.fabianmagrini.com/2022/04/code-samples-using-azure-key-vault-in.html>
 
 ## Azure Kubernetes Service
 
