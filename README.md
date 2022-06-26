@@ -377,5 +377,6 @@ Intermediate
 Examples
 
 * [Container App Store Microservice Sample](https://github.com/Azure-Samples/container-apps-store-api-microservice)
+* [ASP.NET Core Front-end + 2 Back-end APIs on Azure Container Apps](https://github.com/Azure-Samples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps)
 * [A/B Testing your ASP.NET Core apps using Azure Container Apps](https://github.com/Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps)
 * [Container Apps Example Scenario](https://github.com/mspnp/container-apps-fabrikam-dronedelivery)
