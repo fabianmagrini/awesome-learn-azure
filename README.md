@@ -360,10 +360,22 @@ Examples
 
 ## Azure Container Apps
 
+Introduction
+
 * [Introducing Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-azure-container-apps-a-serverless-container-service/ba-p/2867265?ocid=AID3042118)
 * [Deploy your first container app](https://docs.microsoft.com/en-us/azure/container-apps/get-started?ocid=AID3042118&tabs=bash)
-* [Container App Store Microservice Sample](https://github.com/Azure-Samples/container-apps-store-api-microservice)
 * [Introduction to Azure Container Apps](https://www.thorsten-hans.com/introduction-to-azure-container-apps/)
 * [How to deploy Azure Container Apps with Bicep](https://www.thorsten-hans.com/how-to-deploy-azure-container-apps-with-bicep/)
 * [Taking Azure Container Apps for a spin](https://blog.baeke.info/2021/11/03/taking-azure-container-apps-for-a-spin/)
+
+Intermediate
+
+* [Manage revisions in Azure Container Apps](https://docs.microsoft.com/en-us/azure/container-apps/revisions-manage?tabs=bash)
 * [Implementing continuous blue/green deployments on Azure Container Apps by using GitHub Actions](https://denniszielke.medium.com/implementing-continuous-blue-green-deployments-on-azure-container-apps-by-using-github-actions-b4cd5183adb8)
+* [Traffic split in Azure Container Apps](https://www.thorsten-hans.com/traffic-split-in-azure-container-apps/)
+
+Examples
+
+* [Container App Store Microservice Sample](https://github.com/Azure-Samples/container-apps-store-api-microservice)
+* [A/B Testing your ASP.NET Core apps using Azure Container Apps](https://github.com/Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps)
+* [Container Apps Example Scenario](https://github.com/mspnp/container-apps-fabrikam-dronedelivery)
