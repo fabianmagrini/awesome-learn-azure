@@ -380,3 +380,9 @@ Examples
 * [ASP.NET Core Front-end + 2 Back-end APIs on Azure Container Apps](https://github.com/Azure-Samples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps)
 * [A/B Testing your ASP.NET Core apps using Azure Container Apps](https://github.com/Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps)
 * [Container Apps Example Scenario](https://github.com/mspnp/container-apps-fabrikam-dronedelivery)
+
+## Azure App Configuration
+
+* [Create an Azure App Configuration store using Bicep](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-bicep?tabs=CLI)
+* [Use dynamic configuration in an ASP.NET Core app](https://docs.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-aspnet-core?tabs=core5x)
+* [Pull settings to App Configuration with Azure Pipelines](https://docs.microsoft.com/en-us/azure/azure-app-configuration/pull-key-value-devops-pipeline)
