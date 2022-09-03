@@ -388,7 +388,7 @@ Examples
 
 * [Big data architectures](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/)
 * [Real-time analytics on big data architecture](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics)
-* [DataOps for the modern data warehouse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw)
+* [DataOps for the modern data warehouse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw) using Data Factory, Databricks, Azure DevOps, Key Vault, and Synapse Analytics
 
 Examples
 
