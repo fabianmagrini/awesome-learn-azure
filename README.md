@@ -250,12 +250,9 @@ Azure SQL Database
 
 ## Azure Synapse Analytics
 
-* <https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/>
-* <https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics>
 * <https://docs.microsoft.com/en-us/azure/synapse-analytics/get-started>
 * <https://docs.microsoft.com/en-us/learn/paths/realize-integrated-analytical-solutions-with-azure-synapse-analytics/>
 * <https://docs.microsoft.com/en-us/azure/architecture/example-scenario/dataplate2e/data-platform-end-to-end?tabs=cli>
-* <https://github.com/Azure/azure-synapse-analytics-end2end>
 
 ## Virtual Machines
 
@@ -386,3 +383,14 @@ Examples
 * [Create an Azure App Configuration store using Bicep](https://docs.microsoft.com/en-us/azure/azure-app-configuration/quickstart-bicep?tabs=CLI)
 * [Use dynamic configuration in an ASP.NET Core app](https://docs.microsoft.com/en-us/azure/azure-app-configuration/enable-dynamic-configuration-aspnet-core?tabs=core5x)
 * [Pull settings to App Configuration with Azure Pipelines](https://docs.microsoft.com/en-us/azure/azure-app-configuration/pull-key-value-devops-pipeline)
+
+## Data Platform
+
+* [Big data architectures](https://docs.microsoft.com/en-us/azure/architecture/data-guide/big-data/)
+* [Real-time analytics on big data architecture](https://docs.microsoft.com/en-us/azure/architecture/solution-ideas/articles/real-time-analytics)
+* [DataOps for the modern data warehouse](https://docs.microsoft.com/en-us/azure/architecture/example-scenario/data-warehouse/dataops-mdw)
+
+Examples
+
+* [Azure Analytics End to End with Azure Synapse](https://github.com/Azure/azure-synapse-analytics-end2end)
+* [DataOps - Parking Sensor Demo](https://github.com/Azure-Samples/modern-data-warehouse-dataops/tree/main/e2e_samples/parking_sensors)
