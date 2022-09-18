@@ -360,6 +360,8 @@ Examples
 Introduction
 
 * [Introducing Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure/introducing-azure-container-apps-a-serverless-container-service/ba-p/2867265?ocid=AID3042118)
+* [Go Cloud Native with Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/go-cloud-native-with-azure-container-apps/ba-p/3616407)
+* [Journey to the cloud with Azure Container Apps](https://techcommunity.microsoft.com/t5/apps-on-azure-blog/journey-to-the-cloud-with-azure-container-apps/ba-p/3622609?WT.mc_id=javascript-74010-cxa)
 * [Deploy your first container app](https://docs.microsoft.com/en-us/azure/container-apps/get-started?ocid=AID3042118&tabs=bash)
 * [Introduction to Azure Container Apps](https://www.thorsten-hans.com/introduction-to-azure-container-apps/)
 * [How to deploy Azure Container Apps with Bicep](https://www.thorsten-hans.com/how-to-deploy-azure-container-apps-with-bicep/)
