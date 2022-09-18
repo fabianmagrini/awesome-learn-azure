@@ -37,6 +37,7 @@ Microsoft provides many free learning paths. There are several aligned with cert
 * <https://docs.microsoft.com/en-us/learn/paths/develop-deploy-applications-kubernetes/>
 * <https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/>
 * <https://docs.microsoft.com/en-us/learn/paths/realize-integrated-analytical-solutions-with-azure-synapse-analytics/>
+* <https://learn.microsoft.com/en-us/training/paths/monitor-usage-performance-availability-resources-azure-monitor/>
 
 ## Master Class
 
@@ -211,6 +212,7 @@ Production Ready
 
 * <https://docs.microsoft.com/en-us/azure/azure-monitor/>
 * <https://docs.microsoft.com/en-us/azure/azure-monitor/app/snapshot-debugger>
+* <https://learn.microsoft.com/en-us/training/paths/monitor-usage-performance-availability-resources-azure-monitor/>
 
 ## Azure Policy
 
