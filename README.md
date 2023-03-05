@@ -398,3 +398,9 @@ Examples
 
 * [Azure Analytics End to End with Azure Synapse](https://github.com/Azure/azure-synapse-analytics-end2end)
 * [DataOps - Parking Sensor Demo](https://github.com/Azure-Samples/modern-data-warehouse-dataops/tree/main/e2e_samples/parking_sensors)
+
+## Azure API Management
+
+* [What is Azure API Management?](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
+* [Azure security baseline for API Management](https://learn.microsoft.com/en-us/security/benchmark/azure/baselines/api-management-security-baseline)
+* [Azure API Management DevOps Resource Kit](https://github.com/Azure/azure-api-management-devops-resource-kit)
