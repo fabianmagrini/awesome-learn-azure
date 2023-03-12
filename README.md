@@ -56,14 +56,13 @@ Service principals
 
 ## Architecture
 
-* <https://docs.microsoft.com/en-us/azure/architecture/>
-* <https://docs.microsoft.com/en-us/azure/architecture/guide/>
-* <https://dotnet.microsoft.com/learn/dotnet/architecture-guides>
-* <https://docs.microsoft.com/en-us/azure/architecture/patterns/>
-* <https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/>
-* <https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/>
-* <https://azure.microsoft.com/en-au/solutions/architecture/>
-* <https://docs.microsoft.com/en-us/azure/architecture/microservices/>
+* [Azure Architecture Center](https://learn.microsoft.com/en-us/azure/architecture/)
+* [Azure application architecture fundamentals](https://learn.microsoft.com/en-us/azure/architecture/guide/)
+* [.NET Architecture Guides](https://dotnet.microsoft.com/en-us/learn/dotnet/architecture-guides)
+* [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+* [Microservices architecture design](https://learn.microsoft.com/en-us/azure/architecture/microservices/)
+* [Resilience in Azure whitepaper](https://azure.microsoft.com/en-us/resources/resilience-in-azure-whitepaper/)
+* [Reference Architectures](https://learn.microsoft.com/en-us/azure/architecture/browse/)
 
 ### Well-Architected
 
