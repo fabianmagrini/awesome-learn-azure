@@ -4,15 +4,15 @@ A curated list of resources for learning Microsoft Azure
 
 ## Books
 
-* <https://azure.microsoft.com/en-au/resources/learn-azure-in-a-month-of-lunches/>
+* [Learn Azure in a Month of Lunches, Second Edition](https://azure.microsoft.com/en-au/resources/learn-azure-in-a-month-of-lunches/)
 
 ## Certifications
 
 Microsoft provides many free learning paths. There are several aligned with certifications:
 
-* <https://docs.microsoft.com/en-us/learn/certifications/azure-administrator>
-* <https://docs.microsoft.com/en-us/learn/certifications/azure-solutions-architect>
-* <https://docs.microsoft.com/en-us/learn/certifications/azure-developer/>
+* [Azure Administrator Associate](https://learn.microsoft.com/en-us/certifications/azure-administrator/)
+* [Azure Solutions Architect Expert](https://learn.microsoft.com/en-us/certifications/azure-solutions-architect/)
+* [Azure Developer Associate](https://learn.microsoft.com/en-us/certifications/azure-developer/)
 
 ### Udemy courses
 
