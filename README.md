@@ -51,8 +51,8 @@ Microsoft provides many free learning paths. There are several aligned with cert
 
 Service principals
 
-* <https://docs.microsoft.com/bs-latn-ba/cli/azure/create-an-azure-service-principal-azure-cli>
-* <https://docs.microsoft.com/en-us/azure/active-directory/develop/app-objects-and-service-principals>
+* [Create an Azure service principal with the Azure CLI](https://learn.microsoft.com/en-us/cli/azure/create-an-azure-service-principal-azure-cli)
+* [Application and service principal objects in Azure Active Directory](https://learn.microsoft.com/en-us/azure/active-directory/develop/app-objects-and-service-principals)
 
 ## Architecture
 
