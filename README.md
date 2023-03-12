@@ -43,9 +43,9 @@ Microsoft provides many free learning paths. There are several aligned with cert
 
 ## Tips, tricks, guides
 
-* <https://microsoft.github.io/AzureTipsAndTricks/>
-* <https://azure.microsoft.com/en-us/campaigns/developer-guide/>
-* <https://azure.microsoft.com/en-us/blog/get-the-azure-quick-start-guide-for-net-developers/>
+* [Azure Tips and Tricks](https://microsoft.github.io/AzureTipsAndTricks/)
+* [The Developer’s Guide to Azure](https://azure.microsoft.com/en-us/resources/whitepapers/developer-guide-to-azure/)
+* [Azure Quick Start Guide for .NET Developers](https://azure.microsoft.com/en-us/blog/get-the-azure-quick-start-guide-for-net-developers/)
 
 ## Getting Started
 
