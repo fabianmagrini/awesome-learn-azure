@@ -25,19 +25,17 @@ Microsoft provides many free learning paths. There are several aligned with cert
 
 ## Learning paths
 
-* <https://docs.microsoft.com/en-us/learn/paths/administer-infrastructure-resources-in-azure/>
-* <https://docs.microsoft.com/en-us/learn/paths/secure-your-cloud-data/>
-* <https://docs.microsoft.com/en-us/learn/paths/administer-containers-in-azure/>
-* <https://docs.microsoft.com/en-us/learn/paths/architect-great-solutions-in-azure/>
-* <https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/>
-* <https://docs.microsoft.com/en-us/learn/paths/build-applications-with-azure-devops/>
-* <https://docs.microsoft.com/en-us/learn/paths/deploy-applications-with-azure-devops/>
-* <https://docs.microsoft.com/en-us/learn/paths/work-with-relational-data-in-azure/>
-* <https://docs.microsoft.com/en-us/learn/paths/work-with-nosql-data-in-azure-cosmos-db/>
-* <https://docs.microsoft.com/en-us/learn/paths/develop-deploy-applications-kubernetes/>
-* <https://docs.microsoft.com/en-us/learn/paths/azure-well-architected-framework/>
-* <https://docs.microsoft.com/en-us/learn/paths/realize-integrated-analytical-solutions-with-azure-synapse-analytics/>
-* <https://learn.microsoft.com/en-us/training/paths/monitor-usage-performance-availability-resources-azure-monitor/>
+* [Administer infrastructure resources in Azure](https://learn.microsoft.com/en-us/training/paths/administer-infrastructure-resources-in-azure/)
+* [Secure your cloud data](https://learn.microsoft.com/en-us/training/paths/secure-your-cloud-data/)
+* [Administer containers in Azure](https://learn.microsoft.com/en-us/training/paths/administer-containers-in-azure/)
+* [Architect network infrastructure in Azure](https://learn.microsoft.com/en-us/training/paths/architect-network-infrastructure/)
+* [Build applications with Azure DevOps](https://learn.microsoft.com/en-us/training/paths/build-applications-with-azure-devops/)
+* [Work with relational data in Azure](https://learn.microsoft.com/en-us/training/paths/work-with-relational-data-in-azure/)
+* [AZ-204: Develop solutions that use Azure Cosmos DB](https://learn.microsoft.com/en-us/training/paths/az-204-develop-solutions-that-use-azure-cosmos-db/)
+* [Develop and deploy applications on Kubernetes](https://learn.microsoft.com/en-us/training/paths/develop-deploy-applications-kubernetes/)
+* [Realize Integrated Analytical Solutions with Azure Synapse Analytics](https://learn.microsoft.com/en-us/training/paths/realize-integrated-analytical-solutions-with-azure-synapse-analytics/)
+* [Monitor the usage, performance, and availability of resources with Azure Monitor](https://learn.microsoft.com/en-us/training/paths/monitor-usage-performance-availability-resources-azure-monitor/)
+* [Build great solutions with the Microsoft Azure Well-Architected Framework](https://learn.microsoft.com/en-us/training/paths/azure-well-architected-framework/)
 
 ## Master Class
 
