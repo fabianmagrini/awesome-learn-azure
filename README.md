@@ -172,38 +172,38 @@ Create using Bicep
 
 Introduction
 
-* <https://docs.microsoft.com/en-us/azure/aks/kubernetes-walkthrough>
-* <https://docs.microsoft.com/en-us/azure/aks/kubernetes-service-principal>
-* <https://docs.microsoft.com/en-us/azure/dev-spaces/quickstart-netcore>
-* <https://docs.microsoft.com/en-us/azure/aks/update-credentials>
-* <https://azure.microsoft.com/en-gb/topic/what-is-kubernetes>
-* <https://azure.microsoft.com/en-gb/services/kubernetes-service>
+* [Deploy an Azure Kubernetes Service cluster using the Azure CLI](https://learn.microsoft.com/en-us/azure/aks/learn/quick-kubernetes-deploy-cli)
+* [Use a service principal with Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/aks/kubernetes-service-principal?tabs=azure-cli)
+* [How Bridge to Kubernetes works](https://learn.microsoft.com/en-us/visualstudio/bridge/overview-bridge-to-kubernetes)
+* [Update or rotate the credentials for an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/aks/update-credentials)
+* [What is Kubernetes?](https://azure.microsoft.com/en-gb/resources/cloud-computing-dictionary/what-is-kubernetes/)
+* [Azure Kubernetes Service (AKS)](https://azure.microsoft.com/en-gb/products/kubernetes-service/)
 
 Tutorial
 
-* <https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app>
-* <https://docs.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-cluster>
-* <https://docs.microsoft.com/en-us/dotnet/architecture/containerized-lifecycle/design-develop-containerized-apps/build-aspnet-core-applications-linux-containers-aks-kubernetes>
-* <https://docs.microsoft.com/en-us/learn/modules/aks-workshop/>
-* <https://docs.microsoft.com/en-us/learn/paths/develop-deploy-applications-kubernetes/>
+* [Tutorial: Prepare an application for Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-prepare-app)
+* [Tutorial: Deploy an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-us/azure/aks/tutorial-kubernetes-deploy-cluster?tabs=azure-cli)
+* [Build ASP.NET Core applications deployed as Linux containers into an AKS/Kubernetes orchestrator](https://learn.microsoft.com/en-us/dotnet/architecture/containerized-lifecycle/design-develop-containerized-apps/build-aspnet-core-applications-linux-containers-aks-kubernetes)
+* [Introduction to Kubernetes on Azure](https://learn.microsoft.com/en-us/training/paths/intro-to-kubernetes-on-azure/)
+* [Develop and deploy applications on Kubernetes](https://learn.microsoft.com/en-us/training/paths/develop-deploy-applications-kubernetes/)
 
 Advanced
 
-* <https://docs.microsoft.com/en-us/azure/aks/faq>
-* <https://docs.microsoft.com/en-us/azure/aks/developer-best-practices-pod-security>
-* <https://github.com/Azure/aad-pod-identity>
-* <https://github.com/Azure/kubernetes-keyvault-flexvol>
-* <https://docs.microsoft.com/en-us/azure/aks/use-network-policies>
-* <https://github.com/Azure/application-gateway-kubernetes-ingress>
-* <https://docs.microsoft.com/en-gb/azure/aks/cluster-container-registry-integration>
-* <https://docs.microsoft.com/en-us/azure/key-vault/general/key-vault-integrate-kubernetes>
+* [Frequently asked questions about Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/faq)
+* [Best practices for pod security in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/developer-best-practices-pod-security)
+* [Azure AD Workload Identity](https://azure.github.io/azure-workload-identity/docs/)
+* [Azure Key Vault Provider for Secrets Store CSI Driver](https://github.com/Azure/secrets-store-csi-driver-provider-azure)
+* [Secure traffic between pods using network policies in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/use-network-policies)
+* [Application Gateway Ingress Controller](https://github.com/Azure/application-gateway-kubernetes-ingress)
+* [Authenticate with Azure Container Registry from Azure Kubernetes Service](https://learn.microsoft.com/en-gb/azure/aks/cluster-container-registry-integration?tabs=azure-cli)
+* [Use the Azure Key Vault Provider for Secrets Store CSI Driver in an AKS cluster](https://learn.microsoft.com/en-us/azure/aks/csi-secrets-store-driver)
 
 Production Ready
 
-* <https://docs.microsoft.com/en-au/azure/architecture/reference-architectures/containers/aks/secure-baseline-aks>
-* <https://github.com/microsoft/bedrock> Automation for Production Kubernetes Clusters with a GitOps Workflow
-* <https://github.com/Azure/sg-aks-workshop> Security + Governance Workshop
-* <https://github.com/chrisvugrinec/aks-sec-demo> cookbook for an enterprise ready AKS rollout
+* [Baseline architecture for an Azure Kubernetes Service (AKS) cluster](https://learn.microsoft.com/en-au/azure/architecture/reference-architectures/containers/aks/baseline-aks)
+* [Automation for Production Kubernetes Clusters with a GitOps Workflow](https://github.com/microsoft/bedrock) 
+* [Cloud Native App Governance + Security Workshop](https://github.com/Azure/sg-aks-workshop)
+* [Cookbook for an enterprise ready AKS rollout](https://github.com/chrisvugrinec/aks-sec-demo)
 
 ## Azure Monitor
 
