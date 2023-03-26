@@ -257,7 +257,7 @@ Azure SQL Database
 
 ## Virtual Machines
 
-* <https://docs.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-azure-devops-blue-green-strategy>
+* [Configure the blue-green deployment strategy for Azure Linux virtual machines](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/tutorial-azure-devops-blue-green-strategy)
 
 ## Virtual Machine Scale Sets
 
