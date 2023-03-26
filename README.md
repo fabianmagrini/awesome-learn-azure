@@ -266,6 +266,7 @@ What
 * [What are Virtual Machine Scale Sets?](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
 * [Configure a Virtual Machine Scale Set with an existing Azure Load Balancer using the Azure CLI](https://learn.microsoft.com/en-us/azure/load-balancer/configure-vm-scale-set-cli)
 * [Networking for Azure Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-networking)
+* [Guidance for Virtual Machine Scale Sets with Azure Load Balancer](https://learn.microsoft.com/en-us/azure/load-balancer/load-balancer-standard-virtual-machine-scale-sets)
 
 Blue Green Deployment
 
