@@ -263,19 +263,19 @@ Azure SQL Database
 
 What
 
-* <https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview>
-* <https://docs.microsoft.com/en-us/azure/load-balancer/configure-vm-scale-set-cli>
-* <https://docs.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-networking>
+* [What are Virtual Machine Scale Sets?](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/overview)
+* [Configure a Virtual Machine Scale Set with an existing Azure Load Balancer using the Azure CLI](https://learn.microsoft.com/en-us/azure/load-balancer/configure-vm-scale-set-cli)
+* [Networking for Azure Virtual Machine Scale Sets](https://learn.microsoft.com/en-us/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-networking)
 
 Blue Green Deployment
 
-* <https://msftstack.wordpress.com/2017/02/24/vip-swap-blue-green-deployment-in-azure-resource-manager/>
-* <https://github.com/maniSbindra/vmss-packer-blue-green/>
+* [VIP Swap - blue-green deployment in Azure Resource Manager](https://msftstack.wordpress.com/2017/02/24/vip-swap-blue-green-deployment-in-azure-resource-manager/)
+* [Demonstrate blue green deployment of a sample app using Azure Virtual Machine Scale Sets (VMSS)](<https://github.com/maniSbindra/vmss-packer-blue-green/)
 
 Using Terraform
 
-* <https://www.terraform.io/docs/providers/azurerm/r/virtual_machine_scale_set.html>
-* <https://docs.microsoft.com/en-us/azure/developer/terraform/create-vm-scaleset-network-disks-using-packer-hcl>
+* [Manages a Windows Virtual Machine Scale Set](https://registry.terraform.io/providers/hashicorp/azurerm/latest/docs/resources/windows_virtual_machine_scale_set)
+* [Create an Azure virtual machine scale set from a Packer custom image by using Terraform](https://learn.microsoft.com/en-us/azure/developer/terraform/create-vm-scaleset-network-disks-using-packer-hcl)
 * examples:
   * <https://github.com/kumarvna/terraform-azurerm-vm-scale-sets>
   * <https://github.com/gmaentz/terraform_azure>
