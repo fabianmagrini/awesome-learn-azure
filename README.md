@@ -192,7 +192,7 @@ Advanced
 
 * [Frequently asked questions about Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/faq)
 * [Best practices for pod security in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/developer-best-practices-pod-security)
-* <https://github.com/mspnp/aks-fabrikam-dronedelivery> This reference implementation shows a set of best practices for building and running a microservices architecture on Microsoft Azure. This content is built on top of the [AKS Secure Baseline](https://github.com/mspnp/aks-baseline), which is the recommended starting (baseline) infrastructure architecture for an [AKS cluster](https://azure.microsoft.com/en-us/products/kubernetes-service/).
+* [Azure Kubernetes Service (AKS) Fabrikam Drone Delivery](https://github.com/mspnp/aks-fabrikam-dronedelivery) This reference implementation shows a set of best practices for building and running a microservices architecture on Microsoft Azure. This content is built on top of the [AKS Secure Baseline](https://github.com/mspnp/aks-baseline), which is the recommended starting (baseline) infrastructure architecture for an [AKS cluster](https://azure.microsoft.com/en-us/products/kubernetes-service/).
 * [Azure AD Workload Identity](https://azure.github.io/azure-workload-identity/docs/)
 * [Azure Key Vault Provider for Secrets Store CSI Driver](https://github.com/Azure/secrets-store-csi-driver-provider-azure)
 * [Secure traffic between pods using network policies in Azure Kubernetes Service (AKS)](https://learn.microsoft.com/en-us/azure/aks/use-network-policies)
