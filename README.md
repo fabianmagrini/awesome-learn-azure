@@ -76,8 +76,9 @@ Service principals
 
 * <https://github.com/dotnet-architecture/eShopOnContainers> Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.
 * <https://github.com/Microsoft/TailwindTraders> A fictitious retail company showcasing the future of intelligent application experiences. These reference apps are all are powered by the Azure cloud, built with best-in-class tools, and made smarter through data and AI.
-* <https://github.com/mspnp/microservices-reference-implementation> A reference implementation demonstrating microservices architecture and best practices for Microsoft Azure
-* <https://github.com/vietnam-devs/coolstore-microservices> A Kubernetes-based microservices application on service mesh
+* <https://github.com/mspnp/microservices-reference-implementation> A basic reference implementation demonstrating microservices architecture and best practices for Microsoft Azure, using Kubernetes.
+* <https://github.com/mspnp/aks-fabrikam-dronedelivery> This advanced reference implementation shows a set of best practices for building and running a microservices architecture on Microsoft Azure. The AKS Frabrikam Drone Delivery reference implementation is built on top the guidance forming the [AKS Baseline Cluster](https://github.com/mspnp/aks-baseline).
+* <https://github.com/vietnam-devs/coolstore-microservices> A full-stack .NET microservices build on Dapr and Tye
 
 ## Security
 
