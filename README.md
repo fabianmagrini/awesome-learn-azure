@@ -207,6 +207,11 @@ Production Ready
 * [Cloud Native App Governance + Security Workshop](https://github.com/Azure/sg-aks-workshop)
 * [Cookbook for an enterprise ready AKS rollout](https://github.com/chrisvugrinec/aks-sec-demo)
 
+## Azure Load Balancer
+
+* [Quickstart: Create a public load balancer to load balance VMs using a Bicep file](https://learn.microsoft.com/en-us/azure/load-balancer/quickstart-load-balancer-standard-public-bicep?tabs=CLI)
+* [Backend pool management](https://learn.microsoft.com/en-us/azure/load-balancer/backend-pool-management)
+
 ## Azure Monitor
 
 * <https://docs.microsoft.com/en-us/azure/azure-monitor/>
