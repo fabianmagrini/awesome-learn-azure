@@ -78,7 +78,7 @@ Service principals
 * <https://github.com/Microsoft/TailwindTraders> A fictitious retail company showcasing the future of intelligent application experiences. These reference apps are all are powered by the Azure cloud, built with best-in-class tools, and made smarter through data and AI.
 * <https://github.com/mspnp/microservices-reference-implementation> A basic reference implementation demonstrating microservices architecture and best practices for Microsoft Azure, using Kubernetes.
 * <https://github.com/mspnp/aks-fabrikam-dronedelivery> A more advanced reference implementation showing a set of best practices for building and running a microservices architecture on Microsoft Azure. This is built on top of the [AKS Secure Baseline](https://github.com/mspnp/aks-baseline), which is the recommended starting (baseline) infrastructure architecture for an [AKS cluster](https://azure.microsoft.com/en-us/products/kubernetes-service/).
-* <https://github.com/vietnam-devs/coolstore-microservices> A full-stack .NET microservices build on Dapr and Tye
+* <https://github.com/vietnam-devs/coolstore-microservices> A full-stack .NET microservices build on Dapr and Tye.
 
 ## Security
 
