@@ -270,7 +270,7 @@ What
 Blue Green Deployment
 
 * [VIP Swap - blue-green deployment in Azure Resource Manager](https://msftstack.wordpress.com/2017/02/24/vip-swap-blue-green-deployment-in-azure-resource-manager/)
-* [Demonstrate blue green deployment of a sample app using Azure Virtual Machine Scale Sets (VMSS)](<https://github.com/maniSbindra/vmss-packer-blue-green/)
+* [Demonstrate blue green deployment of a sample app using Azure Virtual Machine Scale Sets (VMSS)](https://github.com/maniSbindra/vmss-packer-blue-green/)
 
 Using Terraform
 
