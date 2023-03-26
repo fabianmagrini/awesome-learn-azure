@@ -272,6 +272,7 @@ Blue Green Deployment
 
 * [VIP Swap - blue-green deployment in Azure Resource Manager](https://msftstack.wordpress.com/2017/02/24/vip-swap-blue-green-deployment-in-azure-resource-manager/)
 * [Demonstrate blue green deployment of a sample app using Azure Virtual Machine Scale Sets (VMSS)](https://github.com/maniSbindra/vmss-packer-blue-green/)
+* [Automating code deployments through Azure - Blue-Green deployment](https://medium.com/datapeaceai/automating-code-deployments-through-azure-blue-green-deployment-5ff4bcbdf3c7)
 
 Using Bicep
 
