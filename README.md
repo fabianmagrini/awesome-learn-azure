@@ -430,4 +430,8 @@ Azure OpenAI Service
 * [Introduction to Azure OpenAI Service](https://learn.microsoft.com/en-us/training/modules/explore-azure-openai/)
 * [Get started using ChatGPT and GPT-4 with Azure OpenAI Service](https://learn.microsoft.com/en-us/azure/cognitive-services/openai/chatgpt-quickstart?pivots=programming-language-csharp&tabs=command-line)
 
+Examples
+
+* [Podcast Copilot](https://github.com/microsoft/PodcastCopilot)
+
 
