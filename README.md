@@ -414,6 +414,9 @@ Examples
 * [What is Azure API Management?](https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts)
 * [Azure security baseline for API Management](https://learn.microsoft.com/en-us/security/benchmark/azure/baselines/api-management-security-baseline)
 * [Azure API Management DevOps Resource Kit](https://github.com/Azure/azure-api-management-devops-resource-kit)
+* [Platform automation and DevOps for the API Management landing zone accelerator](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/api-management/platform-automation-and-devops)
+* [Automate API deployments with APIOps](https://learn.microsoft.com/en-us/azure/architecture/example-scenario/devops/automated-api-deployments-apiops)
+* [APIOps](https://github.com/azure/apiops)
 
 ## Production Ready
 
